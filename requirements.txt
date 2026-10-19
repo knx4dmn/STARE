@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+runstats
+tdigest
+datasketch
+torch
+sentence-transformers>=3.3.0
+peft
